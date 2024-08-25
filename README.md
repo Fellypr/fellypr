@@ -18,7 +18,6 @@ Recém-formado no ensino médio e atualmente no segundo<br>período da faculdade
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fellypr/fellypr/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
----
-[![](https://visitcount.itsvg.in/api?id=Fellypr&icon=5&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
