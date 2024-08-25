@@ -1,3 +1,8 @@
+https://readme-typing-svg.demolab.com/demo/?weight=600&size=23&duration=5400&lines=Welcome+to+my+repository.
+
+
+
+
 # 💫 About Me:
 Recém-formado no ensino médio e atualmente no segundo<br>período da faculdade de Engenharia de Software.<br>e estou em busca de uma oportunidade de  um primeiro em<br>prego para ganhar experiência prática e aplicar meus <br>conhecimentos em um ambiente profissional.
 
