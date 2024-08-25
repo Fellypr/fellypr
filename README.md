@@ -1,4 +1,3 @@
-https://readme-typing-svg.demolab.com/demo/?weight=600&size=23&duration=5400&lines=Welcome+to+my+repository.
 
 
 
