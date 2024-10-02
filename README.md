@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-Recém-formado no ensino médio e atualmente no segundo<br>período da faculdade de Engenharia de Software.<br>e estou em busca de uma oportunidade de  um primeiro em<br>prego para ganhar experiência prática e aplicar meus <br>conhecimentos em um ambiente profissional.
+I recently graduated from high school and am currently in the second<br>period of Software Engineering college.<br>and I'm looking for an opportunity for a first job to gain practical experience and apply my knowledge in a professional environment.
 
 
 ## 🌐 Socials:
