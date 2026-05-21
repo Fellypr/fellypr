@@ -4,7 +4,17 @@
 
 
 # 💫 About Me:
-I recently graduated from high school and am currently in the second<br>period of Software Engineering college.<br>and I'm looking for an opportunity for a first job to gain practical experience and apply my knowledge in a professional environment.
+👋 Olá! Sou desenvolvedor Full Stack, focado em C# (.NET Core) no back-end e React / Next.js no front-end.
+
+Em vez de ficar só na teoria, gosto de construir software que funciona e resolve problemas reais. Prova disso é um sistema de gestão comercial que desenvolvi do zero e publiquei sozinho, que hoje controla vendas e stock em ambiente de produção.
+
+O que procuro garantir no meu dia a dia:
+
+-Código limpo, legível e fácil de manter.<br/>
+-APIs eficientes e bem estruturadas.<br/>
+-Interfaces intuitivas com foco na experiência do utilizador.
+
+Estou sempre focado em evoluir tecnicamente e em colaborar com a equipa para entregar software de qualidade.
 
 
 ## 🌐 Socials:
