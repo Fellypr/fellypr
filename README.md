@@ -34,7 +34,7 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 10px;">
 
   <div style="flex: 1; width: 50%;">
-        <img align="left" width="50%" src="https://github.com/Fellypr/Fellypr/blob/main/github-metrics.svg?raw=true&v=2" alt="if you see this, it means my metrics are not working" width="100%">
+        <img align="left" width="50%" src="https://github.com/Fellypr/Fellypr/blob/main/github-metrics.svg?raw=true&v=3" alt="if you see this, it means my metrics are not working" width="100%">
   </div>
 
   <div style="flex: 1; width: 50%; text-align: left; margin-left: 10px;">
